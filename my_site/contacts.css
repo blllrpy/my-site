@@ -1,0 +1,26 @@
+body {
+  background-color: #37454f;
+  text-decoration: none;
+  color: #babfc2;
+  font-family: sans-serif;
+}
+#nav {
+  text-decoration: none;
+  color: #babfc2;
+  border-radius: 15px;
+  background: aqua;
+  padding: 20px;
+  width: 1500px;
+  height: 50px;
+  color: #37454f;
+}
+.nav-link {
+  text-decoration: none;
+  color: #37454f;
+  font-size: xx-large;
+  margin: 20px;
+}
+.text {
+  margin: 15px;
+  font-size: x-large;
+}
