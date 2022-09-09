@@ -1,1 +1,1 @@
-console.log("couldnt think of anything to do with js sorry!");
+console.log("nothing to see here");
