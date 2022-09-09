@@ -8,7 +8,7 @@ body {
   text-decoration: none;
   color: #babfc2;
   border-radius: 15px;
-  background: aqua;
+  background: #89c7c3;
   padding: 20px;
   width: 1500px;
   height: 50px;
@@ -20,7 +20,6 @@ body {
   font-size: xx-large;
   margin: 20px;
 }
-.text {
-  margin: 15px;
+ul {
   font-size: x-large;
 }
